@@ -1,5 +1,1 @@
-Hülle
-Außenrum
-Ummantelung - coating, casing, shell, sheathing, shroud, liner
-Einfassung - lining
-Gussform - mold, cast
+Bei der zusammengesetzen Konstruktion beschwert sich autodesk noch jedes Mal beim Öffnen und verrutscht dann gern den Boden im Vergleich zum oberen Teil. Um für Cura das richtig Druckbar zu machen, muss du den Assembly zu einem symplify part machen, dort musst du dann beide Teile entkoppeln, damit im 3D Druck Modus nicht wieder alles verschoben wird. 
