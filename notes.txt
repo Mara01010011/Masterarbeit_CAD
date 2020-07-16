@@ -1,1 +1,3 @@
 Bei der zusammengesetzen Konstruktion beschwert sich autodesk noch jedes Mal beim Öffnen und verrutscht dann gern den Boden im Vergleich zum oberen Teil. Um für Cura das richtig Druckbar zu machen, muss du den Assembly zu einem symplify part machen, dort musst du dann beide Teile entkoppeln, damit im 3D Druck Modus nicht wieder alles verschoben wird. 
+
+Also das mit dem Verbessern funktioniert nicht, wenn ich jedes Mal alles neu mache und davor die Versionsnummer schreibe. Deshalb werd ich ab jetzt nur noch die stl Dateien versionieren, das andere nicht mehr. Das bleibt so!
